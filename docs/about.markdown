@@ -1,18 +1,10 @@
 ---
 layout: page
-title: About
+title: welcome
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This blog is intended to record my personal study experiences. I plan to introduce interesting techniques and theories that I found noteworthy while attending graduate school. I will primariily focus on theories related to time series analysis and content from industrial engineering. I hope that reading my posts will be somewhat helful for your studies. <br><br>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Best wishes, <br>
+Hyuk
